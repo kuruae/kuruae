@@ -3,7 +3,7 @@
 
 <a href="https://kuruae.pythonanywhere.com/link">
   <img
-    src="https://kuruae.pythonanywhere.com?thene=dark&eq_color=FEC8D8"
+    src="https://kuruae.pythonanywhere.com?theme=dark&eq_color=FEC8D8"
     alt="Current Spotify Song"
   />
 </a>
