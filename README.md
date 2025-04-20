@@ -3,7 +3,7 @@
 🌱 Currently learning low level programming<br>
 🐈‍⬛ Catppucin enjoyer <br><br>
 
-You can find me on spotify every hours of the day<br><br>
+You can find me on spotify every hours of the day<br>
 
 <a href="https://kuruae.pythonanywhere.com/link">
   <img
