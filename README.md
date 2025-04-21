@@ -1,7 +1,7 @@
 # 🌸 About Me:
 🥖 CS student currently living in Paris<br>
 🌱 Currently learning low level programming<br>
-🐈‍⬛ Catppucin enjoyer <br><br>
+🐈‍⬛ Catppuccin enjoyer <br><br>
 
 You can find me on spotify every hours of the day<br>
 
