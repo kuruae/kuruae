@@ -4,7 +4,7 @@
 ```
  
 ```
-kuruae@github
+enzo@github
 ─────────────
 OS:         Arch Linux x86_64
 WM:         Hyprland
