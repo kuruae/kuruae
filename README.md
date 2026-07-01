@@ -10,7 +10,7 @@ WM:         Hyprland
 Editor:     Neovim
 Shell:      fish
 
-Currently:  Student @42 and SWE intern @Thales
+Currently:  Student @42 and intern SWE @Thales
 Location:   Paris, FR
 Languages:  C++23, C , Rust , Python
 Focus:      Low-latency / HFT, Systems
